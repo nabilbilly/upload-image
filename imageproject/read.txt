@@ -1,0 +1,2 @@
+How to upload photo through the database is the  (main).
+(highligting or comment) one is the user or admin uoload img not through the 
